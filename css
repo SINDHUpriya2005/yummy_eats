@@ -1,0 +1,22 @@
+.favourite-food-bg-container {
+    background-image: url('https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=1060&t=st=1694001003~exp=1694001603~hmac=3849739951a1e17ab4c2ef1c44f23b3e59f95e272fa410e2713a3b415cb2b9cd');
+    background-size: cover;
+}
+
+.favourite-food-heading {
+    color: white;
+    padding: 24px;
+}
+
+.favourite-food-card-container {
+    background-color: white;
+    margin: 5vh;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.favourite-food-card-image {
+    width: 80px;
+    height: 100px;
+    margin: 10px;
+}
